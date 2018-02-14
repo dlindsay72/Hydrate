@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B2F176E20336C0C00E2CA23 /* GraphView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B2F176D20336C0C00E2CA23 /* GraphView.swift */; };
 		7BCD800A202CCBFF009824EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCD8009202CCBFF009824EE /* AppDelegate.swift */; };
 		7BCD800C202CCBFF009824EE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCD800B202CCBFF009824EE /* ViewController.swift */; };
 		7BCD800F202CCBFF009824EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BCD800D202CCBFF009824EE /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7B2F176D20336C0C00E2CA23 /* GraphView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphView.swift; sourceTree = "<group>"; };
 		7BCD8006202CCBFF009824EE /* Hydrate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hydrate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BCD8009202CCBFF009824EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7BCD800B202CCBFF009824EE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				7BCD800D202CCBFF009824EE /* Main.storyboard */,
 				7BCD801E202CCCD5009824EE /* PushButton.swift */,
 				7BCD8020202CDAD1009824EE /* CounterView.swift */,
+				7B2F176D20336C0C00E2CA23 /* GraphView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B2F176E20336C0C00E2CA23 /* GraphView.swift in Sources */,
 				7BCD800C202CCBFF009824EE /* ViewController.swift in Sources */,
 				7BCD800A202CCBFF009824EE /* AppDelegate.swift in Sources */,
 				7BCD801F202CCCD5009824EE /* PushButton.swift in Sources */,
